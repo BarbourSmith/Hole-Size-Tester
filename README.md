@@ -4,3 +4,6 @@
 
 ![](/project.svg)
 
+6.26mm seems like the right size
+
+

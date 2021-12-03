@@ -251,6 +251,15 @@
             ]
         },
         {
+            "atomType": "Readme",
+            "name": "README",
+            "x": 0.6746031746031745,
+            "y": 0.21474358974358973,
+            "uniqueID": 423267,
+            "ioValues": [],
+            "readmeText": "6.26mm seems like the right size"
+        },
+        {
             "atomType": "Move",
             "name": "Move",
             "x": 0.4914021164021164,
@@ -272,6 +281,19 @@
                 {
                     "name": "zDist",
                     "ioValue": 0
+                }
+            ]
+        },
+        {
+            "atomType": "Circle",
+            "name": "Circle",
+            "x": 0.17261904761904762,
+            "y": 0.8108974358974359,
+            "uniqueID": 797725,
+            "ioValues": [
+                {
+                    "name": "diameter",
+                    "ioValue": 6.3
                 }
             ]
         },
@@ -314,19 +336,6 @@
                 {
                     "name": "zDist",
                     "ioValue": 0
-                }
-            ]
-        },
-        {
-            "atomType": "Circle",
-            "name": "Circle",
-            "x": 0.17394179894179893,
-            "y": 0.8205128205128205,
-            "uniqueID": 797725,
-            "ioValues": [
-                {
-                    "name": "diameter",
-                    "ioValue": 6.3
                 }
             ]
         },
@@ -792,6 +801,13 @@
             "ap1Name": "geometry",
             "ap2Name": "geometry",
             "ap2Primary": true,
+            "ap1ID": 797725,
+            "ap2ID": 911159
+        },
+        {
+            "ap1Name": "geometry",
+            "ap2Name": "geometry",
+            "ap2Primary": true,
             "ap1ID": 488020,
             "ap2ID": 109230
         },
@@ -801,13 +817,6 @@
             "ap2Primary": false,
             "ap1ID": 920415,
             "ap2ID": 916280
-        },
-        {
-            "ap1Name": "geometry",
-            "ap2Name": "geometry",
-            "ap2Primary": true,
-            "ap1ID": 797725,
-            "ap2ID": 911159
         },
         {
             "ap1Name": "geometry",
