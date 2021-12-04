@@ -94,7 +94,7 @@
         {
             "atomType": "Move",
             "name": "Move",
-            "x": 0.17261904761904762,
+            "x": 0.1779100529100529,
             "y": 0.41025641025641024,
             "uniqueID": 433180,
             "ioValues": [
@@ -274,7 +274,7 @@
             "y": 0.21474358974358973,
             "uniqueID": 423267,
             "ioValues": [],
-            "readmeText": "6.26mm seems like the right size"
+            "readmeText": "6.26mm seems like the right size with a 10x10mm square offset by 7.3mm"
         },
         {
             "atomType": "Difference",

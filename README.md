@@ -4,6 +4,6 @@
 
 ![](/project.svg)
 
-6.26mm seems like the right size
+6.26mm seems like the right size with a 10x10mm square offset by 7.3mm
 
 
