@@ -7,3 +7,6 @@
 6.26mm seems like the right size with a 10x10mm square offset by 7.3mm
 
 
+6.26 is the circle size for FDM parts, 6.1 is the size for OSH Cut laser parts
+
+
