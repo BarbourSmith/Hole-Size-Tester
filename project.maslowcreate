@@ -5653,8 +5653,8 @@
         {
             "atomType": "Readme",
             "name": "README",
-            "x": 0.6898148148148149,
-            "y": 0.1923076923076923,
+            "x": 0.6904761904761905,
+            "y": 0.18769230769230769,
             "uniqueID": 423267,
             "ioValues": [],
             "readmeText": "6.26mm seems like the right size with a 10x10mm square offset by 7.3mm",
@@ -7597,7 +7597,7 @@
         {
             "atomType": "Stl",
             "name": "Stl",
-            "x": 0.8564814814814814,
+            "x": 0.8604497354497355,
             "y": 0.19076923076923077,
             "uniqueID": 232498,
             "ioValues": [
